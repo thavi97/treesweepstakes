@@ -25,7 +25,7 @@
    <p class="intro animate__animated animate__backInLeft" id="intro">The Tree Sweepstakes</p>
    <br>
    <h1 class="animate__animated animate__backInRight" id="headline">Euro 2020</h1>
-   <p class="year animate__animated animate__backInUp"><i class="fa fa-star"></i> 2021 Edition <i class="fa fa-star"></i></p>
+   <p class="year animate__animated animate__backInUp">2021 Edition</p>
  </div>
 </header>
 
