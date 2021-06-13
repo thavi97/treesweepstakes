@@ -26,31 +26,146 @@
 </header>
 
 <section id="groups">
-<div class="container">
-  <div class="col-lg-2">
-  <table class="table">
-    <thead>
-      <tr>
-        <th>Firstname</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Default</td>
-      </tr>
-      <tr class="success">
-        <td>Success</td>
-      </tr>
-      <tr class="danger">
-        <td>Danger</td>
-      </tr>
-      <tr class="info">
-        <td>Info</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-</div>
+  <div class="container">
+    <div class="col-lg-2">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Group A</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Italy <img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:right; margin-top: 5px;"></td>
+          </tr>
+          <tr class="success">
+            <td>Switzerland</td>
+          </tr>
+          <tr class="danger">
+            <td>Wales</td>
+          </tr>
+          <tr class="info">
+            <td>Turkey</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-lg-2">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Group B</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Belgium</td>
+          </tr>
+          <tr class="success">
+            <td>Finland</td>
+          </tr>
+          <tr class="danger">
+            <td>Denmark</td>
+          </tr>
+          <tr class="info">
+            <td>Russia</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-lg-2">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Group C</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Austria</td>
+          </tr>
+          <tr class="success">
+            <td>Netherlands</td>
+          </tr>
+          <tr class="danger">
+            <td>North Macedonia</td>
+          </tr>
+          <tr class="info">
+            <td>Ukraine</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-lg-2">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Group D</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Croatia</td>
+          </tr>
+          <tr class="success">
+            <td>Success</td>
+          </tr>
+          <tr class="danger">
+            <td>Danger</td>
+          </tr>
+          <tr class="info">
+            <td>Info</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-lg-2">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Group E</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Default</td>
+          </tr>
+          <tr class="success">
+            <td>Success</td>
+          </tr>
+          <tr class="danger">
+            <td>Danger</td>
+          </tr>
+          <tr class="info">
+            <td>Info</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-lg-2">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Group F</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Default</td>
+          </tr>
+          <tr class="success">
+            <td>Success</td>
+          </tr>
+          <tr class="danger">
+            <td>Danger</td>
+          </tr>
+          <tr class="info">
+            <td>Info</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 </section>
 
 <section id="bracket">
