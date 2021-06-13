@@ -10,6 +10,9 @@
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
+  <link rel="icon"
+      type="image/png"
+      href="img/star.png" />
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <link href='https://fonts.googleapis.com/css?family=Holtwood+One+SC' rel='stylesheet' type='text/css'>
@@ -89,13 +92,13 @@
             <td><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span style="float: right;">3</span></td>
           </tr>
           <tr>
+            <td><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span style="float: right;">3</span></td>
+          </tr>
+          <tr>
             <td><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span style="float: right;">0</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/mk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Chelsea<span style="float: right;">0</span></td>
-          </tr>
-          <tr>
-            <td><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span style="float: right;">0</span></td>
           </tr>
         </tbody>
       </table>
