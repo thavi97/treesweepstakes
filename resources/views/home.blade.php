@@ -112,7 +112,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span style="float: right;">0</span></td>
+            <td><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span style="float: right;">3</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span style="float: right;">3</span></td>
