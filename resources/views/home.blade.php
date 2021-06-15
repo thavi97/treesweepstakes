@@ -158,16 +158,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/fr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Alan<span style="float: right;">0</span></td>
+            <td><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span style="float: right;">3</span></td>
+          </tr>
+          <tr>
+            <td><img src="img/4x3/fr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Alan<span style="float: right;">3</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/de.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam Sophie<span style="float: right;">0</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/hu.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Laura<span style="float: right;">0</span></td>
-          </tr>
-          <tr>
-            <td><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span style="float: right;">0</span></td>
           </tr>
         </tbody>
       </table>
