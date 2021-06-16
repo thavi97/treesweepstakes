@@ -69,13 +69,13 @@
             <td><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span style="float: right;">3</span></td>
           </tr>
           <tr>
+            <td><img src="img/4x3/ru.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lauren<span style="float: right;">3</span></td>
+          </tr>
+          <tr>
             <td><img src="img/4x3/fi.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ashe<span style="float: right;">3</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span style="float: right;">0</span></td>
-          </tr>
-          <tr>
-            <td><img src="img/4x3/ru.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lauren<span style="float: right;">0</span></td>
           </tr>
         </tbody>
       </table>
