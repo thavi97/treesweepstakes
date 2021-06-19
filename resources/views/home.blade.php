@@ -112,10 +112,10 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span style="float: right;">3</span></td>
+            <td><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span style="float: right;">3</span></td>
+            <td><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span style="float: right;">4</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span style="float: right;">0</span></td>
@@ -135,13 +135,13 @@
         </thead>
         <tbody>
           <tr>
+            <td><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span style="float: right;">4</span></td>
+          </tr>
+          <tr>
             <td><img src="img/4x3/sk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Menuka<span style="float: right;">3</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span style="float: right;">1</span></td>
-          </tr>
-          <tr>
-            <td><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span style="float: right;">1</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/pl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Tash<span style="float: right;">0</span></td>
