@@ -43,13 +43,13 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span style="float: right;">6</span></td>
+            <td><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span style="float: right;">9</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/gb-wls.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ed<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span style="float: right;">1</span></td>
+            <td><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span style="float: right;">4</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/tr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ella<span style="float: right;">0</span></td>
