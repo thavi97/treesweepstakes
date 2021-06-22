@@ -66,16 +66,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span style="float: right;">6</span></td>
+            <td><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span style="float: right;">9</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/ru.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lauren<span style="float: right;">3</span></td>
+            <td><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span style="float: right;">3</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/fi.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ashe<span style="float: right;">3</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span style="float: right;">0</span></td>
+            <td><img src="img/4x3/ru.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lauren<span style="float: right;">3</span></td>
           </tr>
         </tbody>
       </table>
@@ -89,10 +89,10 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span style="float: right;">6</span></td>
+            <td><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span style="float: right;">9</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span style="float: right;">3</span></td>
+            <td><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span style="float: right;">6</span></td>
           </tr>
           <tr>
             <td><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span style="float: right;">3</span></td>
