@@ -182,20 +182,20 @@
   <div class="round round-two">
     <div class="round-details">Round of 16<br/><span class="date">June 26-29</span></div>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/fr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Alan<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span class="score">&nbsp;</span></li>
     </ul>
   </div>	<!-- END ROUND TWO -->
 
@@ -254,20 +254,20 @@
   <div class="round round-two">
     <div class="round-details">Round of 16<br/><span class="date">June 26-29</span></div>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/gb-wls.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ed<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/de.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam Sophie<span class="score">&nbsp;</span></li>
     </ul>
   </div>	<!-- END ROUND TWO -->
 </div>
