@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<link href="css/flexbox-madness.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
+<link href="css/flexbox-madness.css" rel="stylesheet">
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
@@ -43,16 +43,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span style="float: right;">9</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span style="float: right;">9</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/gb-wls.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ed<span style="float: right;">4</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/gb-wls.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ed<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span style="float: right;">4</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/tr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ella<span style="float: right;">0</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/tr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ella<span style="float: right;">0</span></td>
           </tr>
         </tbody>
       </table>
@@ -66,16 +66,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span style="float: right;">9</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span style="float: right;">9</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span style="float: right;">3</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span style="float: right;">3</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/fi.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ashe<span style="float: right;">3</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/fi.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ashe<span style="float: right;">3</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/ru.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lauren<span style="float: right;">3</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/ru.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lauren<span style="float: right;">3</span></td>
           </tr>
         </tbody>
       </table>
@@ -89,16 +89,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span style="float: right;">9</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span style="float: right;">9</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span style="float: right;">6</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span style="float: right;">6</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span style="float: right;">3</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span style="float: right;">3</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/mk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Chelsea<span style="float: right;">0</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/mk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Chelsea<span style="float: right;">0</span></td>
           </tr>
         </tbody>
       </table>
@@ -112,16 +112,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span style="float: right;">7</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span style="float: right;">7</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span style="float: right;">4</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span style="float: right;">4</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/gb-sct.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Nicole<span style="float: right;">1</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/gb-sct.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Nicole<span style="float: right;">1</span></td>
           </tr>
         </tbody>
       </table>
@@ -135,16 +135,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span style="float: right;">7</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span style="float: right;">7</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span style="float: right;">5</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span style="float: right;">5</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/sk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Menuka<span style="float: right;">3</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/sk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Menuka<span style="float: right;">3</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/pl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Tash<span style="float: right;">1</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/pl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Tash<span style="float: right;">1</span></td>
           </tr>
         </tbody>
       </table>
@@ -158,16 +158,16 @@
         </thead>
         <tbody>
           <tr>
-            <td><img src="img/4x3/fr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Alan<span style="float: right;">5</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/fr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Alan<span style="float: right;">5</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/de.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam Sophie<span style="float: right;">4</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/de.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam Sophie<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span style="float: right;">4</span></td>
+            <td style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span style="float: right;">4</span></td>
           </tr>
           <tr>
-            <td><img src="img/4x3/hu.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Laura<span style="float: right;">2</span></td>
+            <td style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/hu.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Laura<span style="float: right;">2</span></td>
           </tr>
         </tbody>
       </table>
@@ -186,16 +186,16 @@
       <li class="team team-bottom"><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span class="score">3</span></li>
-      <li class="team team-bottom"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">5</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span class="score">3</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">5</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">1</span></li>
-      <li class="team team-bottom"><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span class="score">0</span></li>
+      <li class="team team-top" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">1</span></li>
+      <li class="team team-bottom" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/pt.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Emilie<span class="score">0</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">2</span></li>
-      <li class="team team-bottom"><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span class="score">1</span></li>
+      <li class="team team-top" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">2</span></li>
+      <li class="team team-bottom" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span class="score">1</span></li>
     </ul>
   </div>	<!-- END ROUND TWO -->
 
@@ -254,12 +254,12 @@
   <div class="round round-two">
     <div class="round-details">Round of 16<br/><span class="date">June 26-29</span></div>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span class="score">0</span></li>
-      <li class="team team-bottom"><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span class="score">2</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/nl.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam P<span class="score">0</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span class="score">2</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/gb-wls.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ed<span class="score">0</span></li>
-      <li class="team team-bottom"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span class="score">4</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/gb-wls.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ed<span class="score">0</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span class="score">4</span></li>
     </ul>
     <ul class="matchup">
       <li class="team team-top"><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span class="score">&nbsp;</span></li>
