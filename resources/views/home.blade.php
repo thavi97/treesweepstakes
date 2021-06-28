@@ -186,8 +186,8 @@
       <li class="team team-bottom"><img src="img/4x3/ch.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Izzy<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/hr.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Scobes<span class="score">3</span></li>
+      <li class="team team-bottom"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">5</span></li>
     </ul>
     <ul class="matchup">
       <li class="team team-top"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">1</span></li>
@@ -203,7 +203,7 @@
     <div class="round-details">Quarter Finals<br/><span class="date">July 2-3</span></div>
     <ul class="matchup">
       <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
       <li class="team team-top"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">&nbsp;</span></li>
