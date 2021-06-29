@@ -246,8 +246,8 @@
       <li class="team team-bottom"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">&nbsp;</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top">&nbsp;<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="score">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span></li>
     </ul>
   </div>	<!-- END ROUND THREE -->
 
@@ -262,12 +262,12 @@
       <li class="team team-bottom" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/at.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Lexi<span class="score">1</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span class="score">&nbsp;</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/se.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Thavi<span class="score">1</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span class="score">2</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/de.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam Sophie<span class="score">&nbsp;</span></li>
+      <li class="team team-top" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">2</span></li>
+      <li class="team team-bottom" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/de.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sam Sophie<span class="score">0</span></li>
     </ul>
   </div>	<!-- END ROUND TWO -->
 </div>
