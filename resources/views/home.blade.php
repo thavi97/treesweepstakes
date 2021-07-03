@@ -206,8 +206,8 @@
       <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">1 (3)</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span class="score">&nbsp;</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/cz.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Felix<span class="score">1</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span class="score">2</span></li>
     </ul>
   </div>	<!-- END ROUND THREE -->
 </div>
@@ -217,7 +217,7 @@
     <div class="round-details">Semi Final 1<br/><span class="date">July 6</span></div>
     <ul class ="matchup championship">
       <li class="team team-top"><img src="img/4x3/es.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ryan<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="vote-count">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">&nbsp;</span></li>
     </ul>
   </div>
   <div class="final">
@@ -231,8 +231,8 @@
   <div class="semis-r">
     <div class="round-details">Semi Final 2<br/><span class="date">July 7</span></div>
     <ul class ="matchup championship">
-      <li class="team team-top">&nbsp;<span class="vote-count">&nbsp;</span></li>
-      <li class="team team-bottom">&nbsp;<span class="vote-count">&nbsp;</span></li>
+      <li class="team team-top"><img src="img/4x3/dk.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Sophie<span class="score">&nbsp;</span></li>
+      <li class="team team-bottom"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span></li>
     </ul>
   </div>
 </div>
@@ -242,12 +242,12 @@
   <div class="round round-three">
     <div class="round-details">Quarter Finals<br/><span class="date">July 2-3</span></div>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">&nbsp;</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/be.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Hales<span class="score">1</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">2</span></li>
     </ul>
     <ul class="matchup">
-      <li class="team team-top"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span></li>
+      <li class="team team-top" style="background-color: rgba(223, 34, 34, 0.4);"><img src="img/4x3/ua.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Elise<span class="score">0</span></li>
+      <li class="team team-bottom" style="background-color: rgba(45, 189, 57, 0.4);"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">4</span></li>
     </ul>
   </div>	<!-- END ROUND THREE -->
 
