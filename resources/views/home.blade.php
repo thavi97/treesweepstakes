@@ -225,7 +225,7 @@
     <div class="round-details">Final<br/><span class="date">July 11</span></div>
     <ul class ="matchup championship">
       <li class="team team-top"><img src="img/4x3/it.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Ramiz<span class="score">&nbsp;</span></li>
-      <li class="team team-bottom"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span>/li>
+      <li class="team team-bottom"><img src="img/4x3/gb-eng.svg"/ style="width:20px; height: auto; float:left; margin: 5px 5px 0 0;">Rob<span class="score">&nbsp;</span></li>
     </ul>
   </div>
   <div class="semis-r">
